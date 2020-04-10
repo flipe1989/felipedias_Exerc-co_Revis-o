@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+form{
+	font-size: 16px;
+	background-color: cornflowerblue;
+	max-width: 500px;
+    margin:0 auto
+}
